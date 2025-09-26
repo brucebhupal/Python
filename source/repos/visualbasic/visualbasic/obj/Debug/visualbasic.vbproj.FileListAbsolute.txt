@@ -1,0 +1,11 @@
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.vbproj.AssemblyReference.cache
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.Resources.resources
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.vbproj.GenerateResource.cache
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.vbproj.CoreCompileInputs.cache
+C:\Users\tirum\source\repos\visualbasic\visualbasic\bin\Debug\visualbasic.exe.config
+C:\Users\tirum\source\repos\visualbasic\visualbasic\bin\Debug\visualbasic.exe
+C:\Users\tirum\source\repos\visualbasic\visualbasic\bin\Debug\visualbasic.pdb
+C:\Users\tirum\source\repos\visualbasic\visualbasic\bin\Debug\visualbasic.xml
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.exe
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.xml
+C:\Users\tirum\source\repos\visualbasic\visualbasic\obj\Debug\visualbasic.pdb
